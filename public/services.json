@@ -1,49 +1,49 @@
 [
     {
         "id": 1,
-        "name":"Wedding Events",
+        "name": "Event Planning and Coordination",
         "price": 120,
-        "image": "http://elementorpress.com/templatekit-pro/layout49/wp-content/uploads/2022/07/sec5_couples.jpg",
+        "image": "https://finmodelslab.com/cdn/shop/articles/1Re-o_qXYnfR3RhQdEG4zCQM54ieVt5n8_1024x1024.png?v=1696083614",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         "short_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum rem dolores ipsum perspiciatis, architecto itaque omnis debitis nihil veniam quod."
     },
     {
         "id": 2,
-        "name": "Engagement Parties",
+        "name": "Theme & Design",
         "price": 120,
-        "image": "http://elementorpress.com/templatekit-pro/layout49/wp-content/uploads/2022/07/sec5_ring.jpg",
+        "image": "https://bizzabo.com/wp-content/uploads/2021/09/Creative-Corporate-Event-Themes-Groupon-Mini-Golf.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         "short_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum rem dolores ipsum perspiciatis, architecto itaque omnis debitis nihil veniam quod."
     },
     {
         "id": 3,
-        "name": "Anniversary Parties",
+        "name": "Entertainment & Activities",
         "price": 120,
-        "image": "http://elementorpress.com/templatekit-pro/layout49/wp-content/uploads/2022/07/sec5_wine.jpg",
+        "image": "https://media.istockphoto.com/id/1329410603/photo/large-group-of-people-at-a-concert-party.webp?b=1&s=170667a&w=0&k=20&c=mPa6HlEFCBh8rT4kt611m56ha8HwDxMO6aKZBqAJe0c=",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         "short_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum rem dolores ipsum perspiciatis, architecto itaque omnis debitis nihil veniam quod."
     },
     {
         "id": 4,
-        "name": "Birthday Parties",
+        "name": "Photoshoot",
         "price": 120,
-        "image": "https://media.istockphoto.com/id/1314043778/photo/group-of-little-kids-in-party-hat-with-birthday-cake-at-birthday-party-diversity-friends-in.webp?b=1&s=170667a&w=0&k=20&c=y7Hj_b4msKeYdFZvkdI1Tz3aITe_B5Dg5wG5W9XiiBc=",
+        "image": "https://images.unsplash.com/photo-1508657794088-375f2f60c581?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGV2ZW50JTIwcGhvdG9ncmFwaHl8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         "short_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum rem dolores ipsum perspiciatis, architecto itaque omnis debitis nihil veniam quod."
     },
     {
         "id": 5,
-        "name": "Baby Shower Parties",
+        "name": "Catering & Menu Planning",
         "price": 120,
-        "image": "https://media.istockphoto.com/id/1176952541/photo/its-a-girl-baby-shower-decoration-for-party.jpg?s=612x612&w=0&k=20&c=uKro5WeNTa1AhPG_-UYTXpeVv8p1zfXjJik5C8s6Qjc=",
+        "image": "https://media.istockphoto.com/id/1129664861/photo/writing-a-diet-plan-on-the-table-full-of-healthy-food.jpg?s=612x612&w=0&k=20&c=XlaT6bipzQrfuO3dUe1WnT72LrJFv3bgqShzaLsVwXY=",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         "short_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum rem dolores ipsum perspiciatis, architecto itaque omnis debitis nihil veniam quod."
     },
     {
         "id": 6,
-        "name": "Retirement Parties",
+        "name": "Logistics & Rentals",
         "price": 120,
-        "image": "https://img.freepik.com/premium-photo/generative-ai-group-senior-female-friends-enjoying-lunch-date_934909-1976.jpg?w=2000",
+        "image": "https://media.licdn.com/dms/image/C5112AQFZMmRqJzBtOQ/article-cover_image-shrink_600_2000/0/1520059127345?e=2147483647&v=beta&t=hi6EaDJnJslTfNZz86LSjOflIX1PZflwMSOtzohtj60",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         "short_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum rem dolores ipsum perspiciatis, architecto itaque omnis debitis nihil veniam quod."
     }

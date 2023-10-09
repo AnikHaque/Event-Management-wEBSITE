@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 
-const ServicesCard = ({service}) => {
-   
+const WorksCard = ({ service }) => {
+
     return (
 
         <div className=''>
@@ -28,18 +28,18 @@ const ServicesCard = ({service}) => {
                         </div>
                     </dl>
 
-                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum rem dolores ipsum perspiciatis, architecto itaque omnis debitis nihil veniam quod.</p>
-                    <Link to={`/service/${service?.id}`}>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum rem dolores ipsum perspiciatis, architecto itaque omnis debitis nihil veniam quod.</p>
+                    <Link to={`/work/${service?.id}`}>
                         <button className='btn bg-blue-500 pl-8 pr-8 text-white pt-2 pb-2 mt-4 rounded-md font-bold'>View Details</button>
                     </Link>
-                    
+
                 </div>
-            </a> 
-           
+            </a>
+
 
         </div>
 
     );
 };
 
-export default ServicesCard;
+export default WorksCard;

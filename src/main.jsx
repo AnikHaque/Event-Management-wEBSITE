@@ -20,6 +20,9 @@ import Register from './components/login/Register';
 import ServicesDetails from './components/Services/ServiceDetails';
 import ServiceDetails from './components/Services/ServiceDetails';
 import RequireAuth from './components/login/RequireAuth/RequireAuth';
+import WorkDetails from './components/Works/WorkDetails';
+import Error from './components/Error/Error';
+import Contact from './components/Contact/Contact';
 
 const router = createBrowserRouter([
   {
@@ -30,6 +33,10 @@ const router = createBrowserRouter([
       {
         path: '/',
         element: <Home></Home>
+      }, 
+      {
+        path: '/contact',
+        element:<Contact></Contact>
       }, 
       {
         path: '/donation', 
@@ -67,6 +74,18 @@ const router = createBrowserRouter([
           <ServiceDetails></ServiceDetails>
         </RequireAuth>, 
         loader: () => fetch('/service.json') // do not load all data. load only what you need
+      },
+
+      {
+        path: '/work/:id',
+        element:<RequireAuth>
+          <WorkDetails></WorkDetails>
+        </RequireAuth>, 
+        loader: () => fetch('/services.json') // do not load all data. load only what you need
+      },
+      {
+        path: '*',
+        element:<Error></Error> // do not load all data. load only what you need
       }
     ]
   },

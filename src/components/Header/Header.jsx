@@ -44,7 +44,10 @@ const Header = () => {
                     <div className="items-center flex-shrink-0 hidden lg:flex">
 
                         <li className="flex ">
-                            <img className='w-16 rounded-full mr-12' src={user?.photoURL}></img>
+                            <img className='w-16 rounded-full mr-4' src={user?.photoURL}></img>
+                        </li>
+                        <li className="flex mr-8">
+                            <h1 className="font-bold">{user?.displayName}</h1>
                         </li>
 
                         {
