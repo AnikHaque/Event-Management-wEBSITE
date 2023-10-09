@@ -25,6 +25,7 @@ import Error from './components/Error/Error';
 import Contact from './components/Contact/Contact';
 import Pages from './components/Pages/Pages';
 import Works from './components/Works/Works';
+import Profile from './components/Profile/Profile';
 
 const router = createBrowserRouter([
   {
@@ -39,6 +40,10 @@ const router = createBrowserRouter([
       {
         path: '/contact',
         element:<Contact></Contact>
+      }, 
+      {
+        path: '/profile',
+        element:<Profile></Profile>
       }, 
       {
         path: '/pages',
