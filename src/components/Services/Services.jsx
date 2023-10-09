@@ -13,7 +13,7 @@ const [services, setServices] = useState([]);
 
    <div className='ml-20 mr-20'>
           <h1 className='font-semibold text-3xl mb-8'>Our Event Services</h1>
-<div className='grid grid-cols-1 lg:grid-cols-4 gap-2'>
+            <div   className='grid grid-cols-1 lg:grid-cols-4 gap-2'>
     {
         services?.map((service) => <ServicesCard key={service.id} service={service}>
 

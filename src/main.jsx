@@ -23,6 +23,8 @@ import RequireAuth from './components/login/RequireAuth/RequireAuth';
 import WorkDetails from './components/Works/WorkDetails';
 import Error from './components/Error/Error';
 import Contact from './components/Contact/Contact';
+import Pages from './components/Pages/Pages';
+import Works from './components/Works/Works';
 
 const router = createBrowserRouter([
   {
@@ -37,6 +39,14 @@ const router = createBrowserRouter([
       {
         path: '/contact',
         element:<Contact></Contact>
+      }, 
+      {
+        path: '/pages',
+        element:<Pages></Pages>
+      }, 
+      {
+        path: '/services',
+        element:<Works></Works>
       }, 
       {
         path: '/donation', 

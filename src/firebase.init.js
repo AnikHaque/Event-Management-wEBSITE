@@ -6,12 +6,12 @@ import { getAuth } from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCv3X5VNHzBukXCUNVBjZmIFT_wAj5Et88",
-    authDomain: "dentistry-c19be.firebaseapp.com",
-    projectId: "dentistry-c19be",
-    storageBucket: "dentistry-c19be.appspot.com",
-    messagingSenderId: "196837344411",
-    appId: "1:196837344411:web:9034704879da2c102f723e"
+    apiKey: "AIzaSyBIsEG7htqDKCWDAjyPmmB-wYzLEt8cXzQ",
+    authDomain: "presentup-a6d27.firebaseapp.com",
+    projectId: "presentup-a6d27",
+    storageBucket: "presentup-a6d27.appspot.com",
+    messagingSenderId: "856008969691",
+    appId: "1:856008969691:web:0108e5d791f546ff1d6bfe"
 };
 
 // Initialize Firebase
