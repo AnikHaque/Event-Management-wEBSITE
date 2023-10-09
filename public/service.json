@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name":"Anik",
+        "price": 120,
+        "image": "https://i.ibb.co/NyW6vSW/accounts-1.png",
+        "description": "Account & Finance",
+        "short_desc": "300 Jobs Available"
+    },
+    {
+        "id": 2,
+        "name": "Anik",
+        "price": 120,
+        "image": "https://i.ibb.co/PC8JwL3/chip-1.png",
+        "description": "Creative Design",
+        "short_desc": "100+ Jobs Available"
+    },
+    {
+        "id": 3,
+        "name": "Anik",
+        "price": 120,
+        "image": "https://i.ibb.co/H4f5ZCp/Group-13.png",
+        "description": "Marketing & Sales",
+        "short_desc": "150 Jobs Available"
+    },
+    {
+        "id": 4,
+        "name": "Anik",
+        "price": 120,
+        "image": "https://i.ibb.co/72841P4/social-media-1.png",
+        "description": "Engineering Job",
+        "short_desc": "224 Jobs Available"
+    },
+    {
+        "id": 5,
+        "name": "Anik",
+        "price": 120,
+        "image": "https://i.ibb.co/72841P4/social-media-1.png",
+        "description": "Engineering Job",
+        "short_desc": "224 Jobs Available"
+    },
+    {
+        "id": 6,
+        "name": "Anik",
+        "price": 120,
+        "image": "https://i.ibb.co/72841P4/social-media-1.png",
+        "description": "Engineering Job",
+        "short_desc": "224 Jobs Available"
+    }
+]
